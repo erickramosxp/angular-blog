@@ -3,3 +3,9 @@
     font-size: 100px;
   }
 }
+
+@media screen and (max-width:400px) {
+  .conteiner__menu-title > h1 {
+    font-size: 38px;
+  }
+}
